@@ -1,5 +1,6 @@
 Finite Difference Methods
-- Methods for solving partial differential equations.
+- The solution to a differential equation is a function.
+- Methods for approximating solutions to partial differential equations.
 - FDM uses taylor series expansion
 - Error analysis with time complexity.
 - FDM's work on regular grids. Can be extended to triangular meshes.
