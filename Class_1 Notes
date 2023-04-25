@@ -1,0 +1,16 @@
+Finite Difference Methods
+- Methods for solving partial differential equations.
+- FDM uses taylor series expansion
+- Error analysis with time complexity.
+- FDM's work on regular grids. Can be extended to triangular meshes.
+
+Modelling
+ [Real Word -> 
+ (idealization) -> Math Model -> 
+ (Discretization) -> Numerical Model, has discrete values, can be implemented on a computer -> 
+ (Computation) -> Solution -> (Verification with the real world, validation)]
+ There is verification between numerical model and math model.
+ 
+Forward finite difference
+-Approximate derivative by taking (x_i + x_i+1)/delta x where the x's are measured points.
+-You can do the same with second order derivaties.
