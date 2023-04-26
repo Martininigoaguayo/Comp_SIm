@@ -1,0 +1,17 @@
+Class 2
+
+What is an experiment?
+-An experiment takes something as an input (x) and out puts a y.
+-The hypothesis doesn't know what happens when x->y
+    -The hypothesis needs clear assumptions.
+    -Tells us how to measure whether or not the output is correct or not.
+Needs to consider noise in the process x->y.
+Think about what an experiment could be?
+ - Trying different f(x)
+ - Try changing the boundary conditions.
+ - Try making the grid finer. Keep multiplying delta x by 1/2.
+    - Use real world data to verify.
+
+Run simulations against real data.
+
+Design experiment;
