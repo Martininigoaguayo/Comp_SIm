@@ -1,0 +1,10 @@
+Lecture 3 notes - April 29th 2023
+
+Spatial derivaties vs Time based derivates
+    - Spatial derivates example: See how the values of a scalar field change, based on their x and y differences.
+    - Time derivates, e.g temperature change over time 
+    
+    
+Phi known for a specific point in time (phi(x,y, specific_t ))
+
+U is a given velocity field. We use U to update Phi over time, consider rotating our Phi over time.
