@@ -1,3 +1,0 @@
--One matrix for storing points in each triangle, and one matrix for storing the coordinates of each point
--You can use the union of of simple signed distance fields to create more complex objects.
-
